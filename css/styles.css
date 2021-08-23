@@ -1,0 +1,23 @@
+/* the style element impacts everything nests within the "body" for example
+    can also be used to implement single change for repetitive commands */
+body {
+  background-color: #a2dbfa;
+}
+
+hr {
+  border: none;
+  border-top: 4px dotted #035397;
+  border-bottom: none;
+  height: 1px;
+  width: 10%;
+}
+h1 {
+  color: #035397;
+  font-style: italic;
+}
+h3 {
+  color: #035397;
+}
+form{
+  background-color: #a2dbfa;
+}
